@@ -1,4 +1,4 @@
-# Nexus HQ – Company Management Dashboard
+# Worksphere – Company Management Dashboard
 
 A production-ready SaaS Company Management Dashboard built with **React**, **Node.js**, **Express**, and **MongoDB**.
 
