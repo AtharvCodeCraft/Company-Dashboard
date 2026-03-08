@@ -87,7 +87,7 @@ The frontend will run at: `http://localhost:5173`
 
 | Email           | Password    | Role        |
 | --------------- | ----------- | ----------- |
-| admin@nexus.com | admin       | Super Admin |
+| admin@worksphere.com | admin       | Super Admin |
 | jane@nexus.com  | password123 | Manager     |
 | john@nexus.com  | password123 | Employee    |
 
