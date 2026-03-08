@@ -85,11 +85,11 @@ The frontend will run at: `http://localhost:5173`
 
 ## 🔑 Default Login
 
-| Email           | Password    | Role        |
-| --------------- | ----------- | ----------- |
+| Email                | Password    | Role        |
+| ---------------      | ----------- | ----------- |
 | admin@worksphere.com | admin       | Super Admin |
-| jane@nexus.com  | password123 | Manager     |
-| john@nexus.com  | password123 | Employee    |
+| jane@workshpere.com  | password123 | Manager     |
+| john@workshpere.com  | password123 | Employee    |
 
 ---
 
